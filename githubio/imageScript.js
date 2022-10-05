@@ -94,5 +94,9 @@ const imageData = [
   {
     "name": "water_rainbower.png",
     "image": "https://emmanuelsage.github.io/HBPIXELIMG/bosses/firstgen/water_rainbower.png"
+  },
+  {
+    "name": "01_clown_joker.png",
+    "image": "https://emmanuelsage.github.io/HBPIXELIMG/bosses/secgen/01_clown_joker.png"
   }
 ]
