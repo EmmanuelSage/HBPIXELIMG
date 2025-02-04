@@ -100,7 +100,15 @@ const imageData = [
     "image": "https://emmanuelsage.github.io/HBPIXELIMG/bosses/secgen/01_clown_joker.png"
   },
   {
-    "name": "horngoaurdpng.png",
-    "image": "https://emmanuelsage.github.io/HBPIXELIMG/bosses/firstdiffbee/horngoaurdpng.png"
+    "name": "horngoaurd_147.png",
+    "image": "https://emmanuelsage.github.io/HBPIXELIMG/bosses/firstdiffbee/horngoaurd_147.png"
+  },
+  {
+    "name": "horngoaurd_219.png",
+    "image": "https://emmanuelsage.github.io/HBPIXELIMG/bosses/firstdiffbee/horngoaurd_219.png"
+  },
+  {
+    "name": "horngoaurd_original.png",
+    "image": "https://emmanuelsage.github.io/HBPIXELIMG/bosses/firstdiffbee/horngoaurd_original.png"
   }
 ]
