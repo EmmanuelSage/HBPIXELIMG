@@ -3,8 +3,10 @@ const path = require('path');
 const sharp = require('sharp');
 
 const folderPath = './bosses/firstdiffbee'; // Change this to your folder path
-const targetWidth = 141;
-const targetHeight = 147;
+const targetWidth = 219;
+const targetHeight = 219;
+// const targetWidth = 141;
+// const targetHeight = 147;
 
 async function processImages(directory) {
     try {
