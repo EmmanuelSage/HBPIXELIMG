@@ -98,5 +98,9 @@ const imageData = [
   {
     "name": "01_clown_joker.png",
     "image": "https://emmanuelsage.github.io/HBPIXELIMG/bosses/secgen/01_clown_joker.png"
+  },
+  {
+    "name": "horngoaurdpng.png",
+    "image": "https://emmanuelsage.github.io/HBPIXELIMG/bosses/firstdiffbee/horngoaurdpng.png"
   }
 ]
